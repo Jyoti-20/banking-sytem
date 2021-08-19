@@ -1,0 +1,21 @@
+.navbar-nav{
+    font-family:'Oxygen',sans-serif;
+    text-decoration:yellowgreen;
+    font-weight: bold;
+  }
+  #nav-bar
+  {
+      background-color:	#9ACD32;
+      position:static;
+      top:0;
+      z-index:10;
+  }
+  .nav-link:hover{
+      background-color:yellowgreen;
+  }
+  .nav-link {
+      font-family:'Oxygen',sans-serif;
+  }
+  a{
+      color:yellowgreen;
+  }
